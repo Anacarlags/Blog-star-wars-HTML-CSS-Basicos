@@ -4,4 +4,6 @@ mostrar capacidade de recriar uma página do zero, <br>os conceitos de flexbox f
 final desta aplicação.
 </p>
 
- <img src="" >
+## Template do blog criado
+
+ <img src="https://github.com/Anacarlags/Blog-star-wars/blob/master/blogstarwars.png" >
